@@ -200,3 +200,4 @@ Connect Git repo
 Setup CI pipeline
 Enable auto-deploy
 Add alerts + scaling# jerney-code
+# jerney-manifestes
