@@ -178,3 +178,25 @@ The Vite dev server starts on `http://localhost:3000` and proxies `/api` request
 ---
 
 Built with 💜 by the Jerney team. No cap, this blog platform hits different. 🛤️
+
+
+
+
+
+🔥 Simplified Execution Order (What YOU Should Follow)
+
+Don’t do everything at once. Follow this:
+
+✅ Step-by-step (Realistic)
+Dockerize apps
+Push images
+Deploy on Kind (YAML)
+Convert to Helm
+Install Prometheus + Grafana
+Add metrics endpoint
+Install EFK (logging)
+Install ArgoCD
+Connect Git repo
+Setup CI pipeline
+Enable auto-deploy
+Add alerts + scaling# jerney-code
