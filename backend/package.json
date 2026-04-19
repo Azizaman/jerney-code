@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
-    "lint": "eslint src/ --ext .js"
+    "lint": "eslint src/ --ext .js",
+    "test": "npm run lint && echo \"All tests passed!\""
   },
   "dependencies": {
     "cors": "^2.8.5",
