@@ -24,7 +24,7 @@ A Gen-Z vibe blog platform built with a 3-tier architecture — React frontend, 
 - ✏️ Edit your existing posts
 - 🗑️ Delete posts you're not feeling anymore
 - 💬 Comment on posts
-- 🎨 Gen-Z dark UI with glassmorphism and gradients
+- 🎨 Gen-Z dark UI with glassmorphism and gradients.
 
 ## 🏗️ Architecture
 
