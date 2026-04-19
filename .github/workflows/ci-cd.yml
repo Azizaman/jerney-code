@@ -9,7 +9,7 @@ on:
 env:
   REGISTRY: docker.io                          # ← changed from ghcr.io
   IMAGE_OWNER: ${{ vars.DOCKERHUB_USERNAME }}  # ← pulls from Variables tab
-  DEPLOY_REPO: azizaman/jerney-deploy
+  DEPLOY_REPO: azizaman/jerney-manifestes
   HELM_VALUES_PATH: k8s/helm/jerney/values.yaml
 
 jobs:
