@@ -23,7 +23,7 @@ A Gen-Z vibe blog platform built with a 3-tier architecture — React frontend, 
 - 📝 Create blog posts with emoji vibes
 - ✏️ Edit your existing posts
 - 🗑️ Delete posts you're not feeling anymore
-- 💬 Comment on posts
+- 💬 Comment on posts.
 - 🎨 Gen-Z dark UI with glassmorphism and gradients.
 
 ## 🏗️ Architecture
